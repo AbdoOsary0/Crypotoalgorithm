@@ -1,0 +1,66 @@
+Round 0:
+31 32 33 34
+35 36 37 20
+20 20 20 20
+20 20 20 20
+
+Round 1:
+87 85 84 83
+b2 b3 b3 a3
+92 93 93 83
+b2 b3 b3 a3
+
+Round 2:
+e8 e8 8e b4
+5a 5b 3d 17
+c8 c8 ae 94
+7a 7b 1d 37
+
+Round 3:
+cd 4c 14 6e
+97 17 29 79
+5f df 87 ed
+25 a4 9a da
+
+Round 4:
+8c f4 43 51
+1b e3 6a 28
+44 3c ed c5
+61 98 77 1f
+
+Round 5:
+da 01 83 be
+c1 e2 e9 96
+85 de 04 53
+e4 46 73 4c
+
+Round 6:
+a0 8e aa d7
+61 6c 43 41
+e4 b2 47 12
+00 f4 34 5e
+
+Round 7:
+5f 96 f2 b4
+3e fa b1 f5
+da 48 f6 e7
+da bc c2 b9
+
+Round 8:
+ba b3 a4 e3
+84 49 15 16
+5e 01 e3 f1
+84 bd 21 48
+
+Round 9:
+db 4e f6 bc
+5f 07 e3 aa
+01 06 00 5b
+85 bb 21 13
+
+Round 10:
+07 b3 8b 2b
+58 b4 68 81
+59 b2 68 da
+dc 09 49 c9
+
